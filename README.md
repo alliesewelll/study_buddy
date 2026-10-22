@@ -1,4 +1,4 @@
-# Exam Buddy
+# Study Buddy
 
 A small native macOS study assistant with a resizable window, optional always-on-top pin, concise AI replies, course materials, and manual screenshot attachments.
 
